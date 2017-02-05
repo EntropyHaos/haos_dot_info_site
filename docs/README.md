@@ -1,3 +1,3 @@
-### Haos Info Landing Page
+### Haos Info Landing Page!
 
 Testing
