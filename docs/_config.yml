@@ -1,2 +1,8 @@
 title: Haos Info
 theme: jekyll-theme-minimal
+
+# These are needed for serving from Cloud9 else Jekyll serves from localhost
+# on some port that can not be accessed.
+baseurl: ""
+port: 8080
+host: 0.0.0.0
