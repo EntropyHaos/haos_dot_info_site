@@ -4,7 +4,7 @@ description: 'Benjamin Haos Information'
 url: 'https://entropyhaos.github.io/haos_dot_info_site/'
 baseurl: '/haos_dot_info_site/'
 google_analytics: 'UA-92171668-1'
-disqus_shortname: 'EntropyHaos'
+disqus_shortname: 'haos-info'
 
 #baseurl: ""
 port: 8080
