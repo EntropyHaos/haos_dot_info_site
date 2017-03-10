@@ -17,7 +17,7 @@ Built using [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno).
 * Syntax highlighting
 * Social links
 * Tags listing page
-* [Categories][[site]/catagories] listing page
+* [Categories][catagories] listing page
 * Google Analytics integration
 * Disqus integration
 
@@ -46,3 +46,4 @@ Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno
 It is under [the MIT license](/LICENSE).
 
 [site]: https://entropyhaos.github.io/haos_dot_info_site/
+[catagories]: https://entropyhaos.github.io/haos_dot_info_site/catagories/
