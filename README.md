@@ -1,6 +1,8 @@
-# jekyll-uno
+# Haos Dot Info Site
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+A static site served using GitHub Pages.
+
+Built using [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno).
 
 > :warning:
   This theme requires ruby and rubygems installed
@@ -13,7 +15,7 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 * Syntax highlighting
 * Social links
 * Tags listing page
-* Categories listing page
+* [Categories](./categories/) listing page
 * Google Analytics integration
 * Disqus integration
 
