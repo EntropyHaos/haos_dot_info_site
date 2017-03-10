@@ -17,7 +17,7 @@ Built using [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno).
 * Syntax highlighting
 * Social links
 * Tags listing page
-* [Categories](./categories/) listing page
+* [Categories][[site]/catagories] listing page
 * Google Analytics integration
 * Disqus integration
 
