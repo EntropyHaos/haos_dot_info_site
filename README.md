@@ -4,6 +4,8 @@ A static site served using GitHub Pages.
 
 Built using [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno).
 
+[view][site]
+
 > :warning:
   This theme requires ruby and rubygems installed
 
@@ -42,3 +44,5 @@ Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno
 ### Copyright and license
 
 It is under [the MIT license](/LICENSE).
+
+[site]: https://entropyhaos.github.io/haos_dot_info_site/
