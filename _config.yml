@@ -1,7 +1,7 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-#url: 'https://entropyhaos.github.io/jekyll-uno'
+title: Haos Dot Info
+description: 'Benjamin Haos Information'
+url: 'https://entropyhaos.github.io/haos_dot_info_site/'
 baseurl: '/haos_dot_info_site/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -11,12 +11,12 @@ port: 8080
 host: 0.0.0.0
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Benjamin Haos'
+  email: benjaminhaos@gmail.com
+  twitter_username: EntropyHaos
+  #facebook_username: 
+  github_username: EntropyHaos
+  linkedin_username:  BenjaminHaos
 
 defaults:
   -
